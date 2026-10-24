@@ -1,0 +1,5 @@
+[NbConvertApp] Converting notebook local_validation_Farid_Jafarli.ipynb to notebook
+/private/tmp/claude-501/-Users-faridjafarli-GitHub-goit-hw-machine-learning-fundamentals-goit-hw-01/7abab42e-2eb9-43b9-866a-7510511486b5/scratchpad/venv2/lib/python3.13/site-packages/nbformat/__init__.py:96: MissingIDFieldWarning: Cell is missing an id field, this will become a hard error in future nbformat versions. You may want to use `normalize()` on your notebooks before validations (available since nbformat 5.1.4). Previous versions of nbformat are fixing this issue transparently, and will stop doing so in the future.
+  validate(nb)
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[NbConvertApp] Writing 79536 bytes to local_validation_Farid_Jafarli.ipynb

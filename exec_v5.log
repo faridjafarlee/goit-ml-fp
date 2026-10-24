@@ -1,0 +1,16 @@
+[NbConvertApp] Converting notebook final_project_Farid_Jafarli_v5.ipynb to notebook
+[NbConvertApp] ERROR | Notebook JSON is invalid: Additional properties are not allowed ('id' was unexpected)
+
+Failed validating 'additionalProperties' in markdown_cell:
+
+On instance['cells'][0]:
+{'cell_type': 'markdown',
+ 'id': 'a6472e4f',
+ 'metadata': {},
+ 'source': '# Фінальний проєкт. Прогнозування відтоку клієнтів (customer '
+           'chu...'}
+[IPKernelApp] WARNING | Kernel is running over TCP without encryption. All communication (including code and outputs) is sent in plain text and is susceptible to eavesdropping. Use IPC transport or launch with kernel manager-provisioned CurveZMQ keys to enable transport encryption.
+[NbConvertApp] Writing 296233 bytes to final_project_Farid_Jafarli_v5.ipynb
+real 440.37
+user 2075.49
+sys 912.88
